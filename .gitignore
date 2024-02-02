@@ -3,4 +3,6 @@ gene2ensembl.tsv
 gene2ensembl.gz
 gene2pubmed.tsv
 gene2pubmed.gz
+gene2pubmed_analysis_pandas.py
+gene2pubmed_analysis_polars.py
 results/
