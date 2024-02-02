@@ -13,7 +13,8 @@
 生物種の選択はNCBIのTaxonomy IDで指定する
 ````
 # settings
-ensemblID_data_path = '../sus_scrofa_meta_analysis/5_score_results/hypoxia_code/CodingGene/score_geneid.csv'
+score_data_path = '../sus_scrofa_meta_analysis/5_score_results/hypoxia_code/CodingGene/score_geneid.csv'
+geneID2geneSymbol_data_path = './chicken_geneId2geneSym.txt'
 gene2ensembl_data_path = './gene2ensembl.tsv'
 gene2pubmed_data_path = './gene2pubmed.tsv'
 tax_id = 9823
